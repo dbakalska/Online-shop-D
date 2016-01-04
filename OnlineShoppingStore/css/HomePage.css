@@ -1,0 +1,66 @@
+﻿.row {
+    margin:0;
+}
+.page-header {
+    margin-top:0;
+    margin-bottom:0;
+    margin:0;
+}
+
+.page-header a, .panel-group a {
+    text-decoration:none;
+}
+
+.page-header h1 {
+    /*font-family: 'Shadows Into Light', cursive;*/
+    font-family: 'Marck Script', cursive;
+    padding-left:1em;
+   
+}
+
+.navbar-form {
+    margin-right:15px;
+}
+
+.input-group, #user-box {
+    margin-top:2.1em;
+}
+
+#user-box span {
+    color: #23527C;
+}
+
+#user-box button {
+    border:0;
+}
+
+.nav a {
+    margin-right:2.1em;
+}
+
+.nav>ul:first-child  {
+    margin-left:2.1em;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > .row,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+
+.img-category img {
+    width:100%;
+}
+
+.panel-body {
+    text-align:center;
+}
+
+.panel-group {
+    margin-top:1em;
+}
+
+.bestsellers-carousel img {
+    width:100%;
+}
